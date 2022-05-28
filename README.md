@@ -27,7 +27,7 @@ Utilities: Type of utilities available etc
 
 Using the above features of the dataset, I have made an effort to find the prices of houses using Machine Learning Algorithms.
 
-Algorithms Used:
+# Algorithms Used:
 
 1) Lasso Regression
 
@@ -37,7 +37,7 @@ Algorithms Used:
 
 4) XGBoost
 
-Libraries Used: 
+# Libraries Used: 
 
 1) Pandas
 
