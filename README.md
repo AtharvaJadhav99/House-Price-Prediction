@@ -23,8 +23,15 @@ LotShape: General shape of property
 
 LandContour: Flatness of the property
 
-Utilities: Type of utilities available
-
-etc
+Utilities: Type of utilities available etc
 
 Using the above features of the dataset, I have made an effort to find the prices of houses using Machine Learning Algorithms.
+
+Algorithms Used:
+1) Lasso Regression
+
+2) Ridge Regression
+
+3) Random Forest
+
+4) XGBoost
